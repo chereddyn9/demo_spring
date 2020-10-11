@@ -1,0 +1,8 @@
+target/
+logs/
+*tmlog*.log
+*.classpath
+*.project
+*.factorypath
+*.settings/
+*.sts4-cache/
